@@ -1,2 +1,2 @@
 # sample
-sample repo
+sample repo telugu skill hub
